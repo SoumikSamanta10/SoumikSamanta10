@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Soumik Samanta
-- 👀  My research focuses on Quantum Information, Computing, and Quantum Optics.
-- 🌱 I’m currently working on Quantum machine learning & simulations
+- 👀  My research focuses on Quantum Information & Computing, mainly entanglement & measurement based quantum algorithms.
+- 🌱 I’m currently working on QKD, Quantum machine learning & simulations
 - 💞️ I’m looking to collaborate on QI theory research, Qiskit and quantum projects.
 - 📫 Feel free write to me at soumiksamanta10@gmail.com
 
